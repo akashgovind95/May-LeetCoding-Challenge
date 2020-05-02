@@ -18,3 +18,4 @@ Week 1
 | Leetcode URL        | Solution URL           |
 | ------------- |:-------------:|
 | [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%201/FirstBadVersion.cpp) |
+| [Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%201/JewelsAndStones.cpp) |
