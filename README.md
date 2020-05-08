@@ -24,3 +24,13 @@ Week 1
 | [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%201/FirstUniqueCharacterInAString.cpp) |
 | [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%201/MajorityElement.cpp) |
 | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%201/CousinsInBinaryTree.cpp) |
+
+
+Week 2
+------
+
+
+| Leetcode URL        | Solution URL           |
+| ------------- |:-------------:|
+| [Check If It Is a Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%202/CheckIfItIsAStraightLine.cpp) |
+
