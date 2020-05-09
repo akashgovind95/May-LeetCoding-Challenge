@@ -33,4 +33,5 @@ Week 2
 | Leetcode URL        | Solution URL           |
 | ------------- |:-------------:|
 | [Check If It Is a Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%202/CheckIfItIsAStraightLine.cpp) |
+| [Valid Perfect Square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%202/ValidPerfectSquare.cpp) |
 
