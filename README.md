@@ -38,4 +38,5 @@ Week 2
 | [Flood Fill](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%202/FloodFill.cpp) |
 | [Single Element in a Sorted Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%202/SingleElementInASortedArray.cpp) |
 | [Remove K Digits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%202/RemoveKdigits.cpp) |
+| [Implement Trie (Prefix Tree)](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%202/ImplementTrie_PrefixTree.cpp) |
 
