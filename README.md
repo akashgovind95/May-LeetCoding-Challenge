@@ -40,3 +40,13 @@ Week 2
 | [Remove K Digits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%202/RemoveKdigits.cpp) |
 | [Implement Trie (Prefix Tree)](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%202/ImplementTrie_PrefixTree.cpp) |
 
+
+Week 3
+------
+
+
+| Leetcode URL        | Solution URL           |
+| ------------- |:-------------:|
+| [Maximum Sum Circular Subarray](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%203/MaximumSumCircularSubarray.cpp) |
+| [Odd Even Linked List](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%203/OddEvenLinkedList.cpp) |
+
