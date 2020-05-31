@@ -65,5 +65,19 @@ Week 4
 | [Interval List Intersections](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%204/IntervalListIntersections.cpp) |
 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%204/ConstructBinarySearchTreeFromPreorderTraversal.cpp) |
 | [Uncrossed Lines](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%204/UncrossedLines.cpp) |
+| [Contiguous Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%204/ContiguousArray.cpp) |
+| [Possible Bipartition](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%204/PossibleBipartition.cpp) |
+| [Counting Bits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%204/CountingBits.cpp) |
+
+
+Week 5
+------
+
+
+| Leetcode URL        | Solution URL           |
+| ------------- |:-------------:|
+| [Course Schedule](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%205/CourseSchedule.cpp) |
+| [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%205/KClosestPointsToOrigin.cpp) |
+| [Edit Distance](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/)  | [Solution](https://github.com/akashgovind95/May-LeetCoding-Challenge/blob/master/Week%205/EditDistance.cpp) |
 
 
